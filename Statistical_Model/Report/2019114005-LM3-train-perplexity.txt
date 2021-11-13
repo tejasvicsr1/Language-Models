@@ -1,0 +1,201 @@
+Welcome back to this course on polymer chemistry and in today ’s lecture , which is lecture number seventeen , I am going to cover or begin our discussion on ionic chain polymerization.	3.2518141721068186
+Now , in this lecture I plan to cover discuss the general characteristics of ionic chain polymerization , and while discussing I will compare how this ionic chain polymerization compares with radical chain polymerization.	3.0010196797682047
+And then we will go to cationic chain polymerization and talk about different types of initiation for cationic chain polymerization , and then go to propagation and termination reactions in cationic chain polymerization.	2.4964456716548695
+And then I will talk about kinetics of cationic chain polymerization and then energetics of cationic chain polymerization.	2.517040039207425
+And in next lecture , I plan to talk about the other type of ionic polymerization , which is anionic chain polymerization.	2.6246878230500545
+Now , let us begin our discussion on ionic chain polymerization.	2.7078815670810985
+Now , as the name suggest , in this case the initiation is from an anionic species , whether it is a cation or anion.	3.212057756266698
+Say , if I consider M as a monomer and I is a , initiation , initiator , then it could be a cation or an anion , which will , according to which we name cationic polymerization or anionic polymerization.	3.0169648390652677
+It could be acceptance of electron giving rise to a radical anion or removal of an electron , which gives to radical cation , which two of which might combine to give you a dianion or a dication which can further initiate the chain reactions from both the sides.	3.6579537284770227
+So , this is example , this is a case of cationic polymerization.	2.1451950415126446
+This is a case of cationic polymerization and this two are the case of anionic polymerization.	2.3340734435644297
+Now , in this case , the ionic species are the initiator or rather the initiators are ionic species , so as the propagating species also ionic.	2.9712753811442485
+Now , the some polymerization , for example , initiation by coordination or semi clock side , which also progress through an ionic species , propagating , propagates through ionic species route , but those we are not going to cover as an ionic chain polymerization.	3.3994034212332136
+So , ionic chain polymerization we will consider only when both the initiation and the propagation reaction is by ionic species.	2.5714407333533598
+Now , like radical chain polymerization , these ionic chain polymers , polymerization reactions are not very popular commercially.	2.5042092243994674
+There are main , too main reasons why they are not so utilized commercially.	3.948943806434124
+One is that stringent requirement of polymerization in case of this ionic polymerization.	2.562989577090477
+We require very , stringest , stringent conditions , which are difficult to achieve in a large industrial scale and also , this ionic polymerization are very selective , which means , that not every monomer can be polymerized by ionic polymerization , unlike , unlike radical case where most of the , poly , monomers , double bond monomers can be polymerized by radical chain polymerization we can assume.	3.224826662599607
+So , these are the main two reasons why this ionic chain polymerization , are not practiced that commercially in that scale.	3.2221843392571627
+And so in that sense , it is not that important like radical chain polymerization.	2.6754853832150247
+However , this polymerization is ionic chain polymerization , gives us opportunity to synthesize specialized polymers , like block copolymers or tellically polymers , which are basically type polymers , having functional groups at the end of the chain , which we can , we utilized for the , for another reactions.	3.0136275380630697
+So , let us start the discussion on ionic polymerization and let us talk about first the general characteristics.	3.015142129880622
+And while talking these general characteristics of ionic polymerization we will compare its differences or its likeliness with the chain , radical chain polymerization.	3.082917604632103
+First is that as I just said , that it is , it is much more selective , much more selective.	3.3119808668162882
+Now , why do we started our discussion on chain polymerization.	2.6614999177660947
+We talked about , that this monomers like this ether , which have electron donating group like there oxygen , which can be lone pair , can be donated if it is a cationic centre here.	3.6044205055248852
+Now , this type of monomers can be polymerized by cationic chain polymer , polymerization reaction because the resulting cationic propagating can be stabilized by the electron donating , mechanizing donation by the oxygen from here.	2.792929004951867
+Now , for anionics , for anionic chain polymerization we need to have monomers , which have electron withdrawing group , electron withdrawing group , which could be , as we discussed earlier , something like this , acrylates or methacrylates , and , and so on , with this can be polymerized anionically because the resulting anion can be stabilized by this resonating with the carbonyl bond.	3.0386720955212696
+So , in that sense , this anionic and cationic polymerization at very and only if the monomer has , monomer with , monomers with , with inductive effect and ability to stabilize the propagating species by resonance in the , both for cationic and anionic , then this monomers can be polymerized by both cationic and anionic.	3.2357843912740814
+So , if I write on the , complete this sentence , in that you can able to do , stabilize both cationic and anionic propagating species.	3.4013817185036372
+For example , you have styrene where both cationic and anionic can be stabilized by resonance with this aromatic proof or say , cation , resulting cation or anionic can be stabilized by resonance from this double bond.	3.387762134535989
+As we see , we have seen now from this discussion , that not every monomer can be polymerized by anionically and there is a set of polymer , a set of monomers , which can be polymerized anionically.	2.9562459244162556
+And you know , less number of monomers can be polymerized cationically , and there are even lesser number polymers , which can be polymerized by both anionic and cationic polymerization.	2.8116386675398513
+While in case of radical we have seen , that all this , this monomers or this monomers or this can be all polymerized by radical chain polymerization.	2.5880428854304354
+So , in that case , in that composition radical is a , radical chain polymerization is much least sensitive compared to the ionic polymerization.	2.749836580802397
+Now , second characteristics , if you want to talk about , is the effect of polarity , effect of polarity of the solvent.	3.16717762648287
+It is not only polarity , but the capability of the solvent molecules to solvate the ionic species giving the chain propagation.	2.8934249184877703
+Now , as you have seen earlier , that a propagation reaction can be this.	2.461650530831867
+It is either cationic species or anionic species.	3.0469379196933515
+Now , this anionic species or cationic species , they are not present alone in the medium , they are always associated with or accompanied by a counter ion.	3.433925953166772
+For the positive it is a anion , for negative it is a cation.	3.3425272186804333
+So , this propagating chain are always of this ionic group , are always accompanied by a counter ion of oppositely charged , that is always happens.	3.452466183026182
+Now , depending on the association behavior of these two species , the active center and the counter ion , the reactivity of the propagating species varies.	2.8663569337338406
+What I mean , that if they are very tightly bound , they are very tight , then obviously , the accessibility of , or the reactivity of this ionic center are less.	3.393062095362332
+So , the propagating species is less reactive.	2.4934770100131196
+While if you compare with the situation where they are well separated , they are like free , free hands.	3.1900144202433336
+Now , if they are free , then obviously , they are more accessible and the reactivity of this propagating species , ionic propagating species are much more reactive or much more reactive compared to situation when they are tight ion - pair.	2.908389868143452
+So , it is always preferred , that you have a polar solvent , it is , this is always preferred.	2.783607779255438
+We do ionic reaction in a polar solvent because if you have polar solvent , then this oppositely charge ions , ions will be well separated in the medium and if they are well separated , obviously , the reactivity of the active center in the propagating chain will be higher.	3.0190423674298983
+So , you have a higher rate of reaction or an eventually higher molecular build up.	2.8166560956891433
+Now , often if you use polar solvent , for example if you use hydroxylated solvents , hydroxylated solvents like say , H 2 O or alcohol , what happens.	3.3566521008070582
+This , this reacts , this hydroxylated solvents react very , very fast , you know , very effectively they react with this ionic species and then stop the chain.	3.0044594058326655
+So , these ionic centers are destroyed with reaction of this hydroxyl , hydroxy molecules , H 2 O or alcohol.	3.524697147810408
+If you have other polar solvents , like say ketone , what happens.	3.0847181232301653
+This ketone loop complex form complex with this ionic species and then once they form complex , the reactivity of this ionic species are lost.	3.254697418868998
+So , you do not have an effective polymerization happening.	2.394514260237617
+So , you require a polar solvent to have these charges separated and ions as free as possible.	3.55077495621472
+Similarly , if you use very high polar solvents , like hydroxylated solvents or ketone , then the reaction actually gets stopped by reaction of these solvent molecules with the reactive species.	2.810059028749346
+So , eventually or practically , a low to moderate polarity solvents like , say methylene chloride or say , methylene dichloride or THF , or ether or nitrobenzene.	4.753327469290959
+So , these are the examples of some of the solvents , which have , medium , low to medium polarity and does not high react with those ionic species.	3.0500328713984945
+They , they actually can be used for ionic species polymerization , but this is , these are not very generic in the sense , that the solvents , this solvents also can react with anionic species as well.	2.97680233923217
+So , we have , we will discuss specifically for the requirement of solvent.	2.3906923501204695
+We will talk about cationic and anionic polymerization individually.	2.459909900743437
+Now , how this , if you want to write a , a generic structure of , say , to write , write a cationic propagating species , which have , which a cationic reactive centre and a counter ion , which is represented by A minus , so what are the possible states they can represent.	3.4325585003982404
+One , they can be completely covalent bonding , covalent bonded , covalent bonded , one.	4.023232633037349
+Two , they can be tight ion - pair ; these are very tight , no solvent molecule in between.	3.4392378854748977
+So , tight ion - pair or sometimes it is called contact ion - pair or see , some people say intimate ion - pair.	4.98462004826453
+Same thing is called with different names.	3.579049399256736
+It can be present as solvated.	3.276914854315163
+So , solvated has three solvated ion - pair or loose ion - pair or they can be totally free , free ion - pair.	4.370026710500523
+So , these are the possible , depending upon the polarity of the medium this could the four possible association state between these two ionic species.	3.0181826434872874
+Now , it , we have given examples of cation and anion here where the propagating species is B plus , is said the both cationic polymerization , the propagating species in cationic polymerization.	2.7436719358319515
+But it can be true ; this post can be true for the other anionic polymerization as well.	3.429017673102063
+Now , obviously , with the increase in the polarity of the medium , if you increase the polarity of the medium , this , this , the more polar means , the ions get solvated and then finally , get as free ion , ion - pair.	3.1249969259984076
+So , as the reactivity of the ionic centre , obviously , the free is the ionic center it gets , it becomes more reactive.	3.204380706740594
+So , which means and in some cases these , these are not present isolately , they actually remain in equilibrium and equilibrium shifts depending upon the polarity of the medium.	3.14844554709691
+So , in this way you can understand , that solvents play , solvent means , I mean polarity of the solvent plays a very important role in terms of reactivity of these ionic reactions.	3.1245752593437066
+And if you compare with radical chain polymerization , solvent polarity actually has no such role to play in case of radical chain polymerization.	2.833972806090446
+You have to only check whether the solvent can solubilize the monomer or the reagent and it , solvent should not participate in the undesired chain transfer reactions.	3.056427669329791
+So , this type of solvent dependent reactivity was absent in case of radical chain polymerization.	2.5488144822641265
+So , third characteristic we can talk about and compare the nature of reaction.	3.054804754929162
+Now , this , these are complex reactions as we will find out from further discussion , that these are complex reaction and they are very fast.	2.7580166290475177
+They are fast ; they are about , say , 10 to the power 4 to 10 to the power of 6 times of the reaction rate of radical chain polymerization.	2.8421028621496656
+So , they are very fast and this fast nature of this reaction is due to the fact , that the accumulation of this active centers.	3.078821464826298
+And as we will immediately discuss , that in case of ionic reaction , this bimolecular , molecular , termination bimolecular termination by reaction between two propagating species is absent or absent because they are anionic charge.	2.8806691387452514
+One cation cannot react with another cation , cationic propagating species and terminate the reactions in case of radical.	2.797691372056185
+What you have seen , that radical , two radical propagating species can react with each other and can terminate either by combination or by in case of cationic , anionic polymerization or cation polymerization.	2.9129421385464465
+Because they have seen this propagation species are similarly charged , they cannot react with each other and terminate the chains.	2.7995656387465813
+As a result , there is a huge increase in the concentration of these active centers in the medium and as a result , the reaction is very fast.	2.8784112396862636
+But in case of radicals we have seen , that the steady state concentration of the active radicals is very low and as a result , the propagation was comparatively low in a slower , in compression to these ionic polymerization.	2.928851158232414
+And as these ionic centers are very reactive , they are very sensitive to , very sensitive to impurities , which includes moisture because they are very active , reactive.	3.495714995041761
+These ionic centers are very reactive , they are very sensitive to this impurities where you know , that radical , though radical chain polymerization are sensitive to impurities , but they are not as radical chain polymerization , is not as sensitive as in case of ionic chain polymerization and sometimes large effect of , large effect of cocatalyst.	3.139211990951206
+Cocatalyst are nothing but small inorganic compounds , like say H 2 O , can be observed in case of ionic polymerization have , which was not the case of radical polymerization.	3.095350613953135
+And as the reaction is very fast and complex , this kinetic data , kinetic data are often , often not reproducible because this kinetic data is not always reproducible , especially in this case of kinetics , especially in case of cationic polymerization , cationic , the mechanism and the mechanism on kinetics of this ionic polymerization , especially cationic chain polymerization is still not completely understood , to understand the mechanism in kinetics of this ionic polymerization , especially the cationic one , because as I said , these reactions are very fast and not reproducible.	3.1267178390507864
+And as I said earlier , this four is your , the termination reactions.	2.952669002060403
+As I said , that bimolecular termination is not possible , bimolecular termination by the action of two propagating species is not possible and so if you can suppress the other , other reactions , which are chain transfer reaction , if you can suppress those , you can actually keep this chains , this ionic chains as living because you can , because the inherent or intrinsic termination reaction between the propagating species are not there , they are absent.	2.913288488165936
+So , if you can stop the side reactions , which includes the chain transfer reaction , then you can actually make this chain alive or this polymerization could be living polymerization and that is especially true for anionic polymerization.	2.6836297427837796
+You will find out in later discussion , that in case of cationic there are other ways , which are likely like chain transfer reactions , but in case of anionic it is comfortably easy to make polymerization , leaving chain polymerization.	3.0837572372004964
+Whereas , in case of radical , we know , that this termination can be possible by bimolecular reaction of the two propagating new species.	2.8121794699126452
+So , let us now talk in detail about the cationic polymerization.	2.859791629083358
+So , let us talk about and again , like radical polymerization if any chain polymerization , this cationic chain polymerization we were discussing.	2.493641831314641
+So , I should write cationic chain polymerization.	2.2562715399609994
+So , it consists of three steps : initiation , propagation and termination.	2.9677675852339065
+First , let us talk about different types of initiation reactions , different types of initiation reaction and first one is , which is more common is , by reaction of monomer with an electrophile , say R plus and this electophile could be H plus , which you get it from protonic acids.	3.2096939382295875
+Now , if I write generic way , H plus plus A , generic structure of a monomer , it gives you CH 3 CH Y , cationic species , and A minus.	4.012887940234687
+This is counter A minus , is the counter ion.	3.68944682814859
+Now , HX would be strong enough if these acids should be stronger enough to produce significant concentration of the protonal species , so that it can initiate , react with the monomer.	3.358195486736845
+And A minus , the counter ion , should not be heavy , strong nucleophile because if it is a very strong nucleophile , then it can react with the cationic group and make a covalent bond and stop the reaction there itself.	3.414430925600362
+For example , if I consider a case of halogen acids like HX and take the generic structure of the monomer with the reaction , we put on electrophilic reaction , it will form the same initiating species , but because this halogen anion is , is so strong nucleophile , it will actually combine again and form a covalent bond.	3.438677119777317
+So , your reaction stops there.	2.529357876811421
+You cannot have the reaction progressing further.	2.7164145024991333
+So , so other protonic acids like H 2 SO 4 or say , HClO 4 or phosphoric acid.	4.4979932017061435
+They are used , they can be used because this counter ions are not so strong nucleophile like halide ions , but still this , this , because they are , they are also significantly nucleophilic , this cannot built very high molecular with polymers by cationic chain polymerization.	3.130245060554459
+So , these are limited and the molecular weight , molecular weights are not very high for this proton by this reaction , cationic reaction by this protonation.	2.6122920591575975
+So , most , most popular , most important , this electrophilic reaction is reaction of Lewis acids.	3.3622706743277466
+So , that is B , with the Lewis acid I can write generic structures like MX n for Lewis acids.	4.07580884481364
+Example could be BF 3 , AlCl 3 , SnCl 4 , SlCl 5 , ZnCl 2 , TiCl 4 , and so on , or they are derivatives , like RaCl 2 , R 2 AlCl and so on.	4.667658289912918
+So , these are Lewis , Lewis acid can be used for supplying an electrophile for reaction with the monomer , but it is this Lewis acids are seldom used alone.	3.5723499723284595
+For example , if you take a reaction of isobutylene plus anhydrous BF 3 , anhydrous BF 3 , then there is no reaction.	3.1137520771908727
+But at the moment you add little bit of water along with this mix , so you have the same reaction with BF 3 plus H 2 O , then there is a rapid reaction.	3.6341134785154243
+So , these examples showing as these Lewis acids , which we just showed in the last page , they are often used along with a second catalyst or cocatalyst , which can be water molecules or some other molecules.	3.320417986606696
+We will just give examples in few minutes.	3.0846625792617246
+So , if you consider this case the reaction happens like this.	2.3137618705345404
+BF 3 plus H 2 O makes a complex or we can use other Lewis acids and we can use this alkyl halides as a cocatalyst and this case , the complex found is like this.	3.5072565642787628
+So , this case , this is a protogen , which is basically proton donor protogen and this is cationogen , which is a cationic species donor or carbocationic , carbocation donor.	3.822765615977038
+Now , this is called nowadays initiator because this is the species , which is supplying the H plus or R plus.	3.1914567646481498
+This is coinitiator , coinitiator , BF 3 or AlCl 3 are , sometimes they are called this BF 3 or AlCl 3 , called catalyst and this initiator called cocatalyst.	4.0944777399059875
+So , you should be careful about this nomenclature , other you called this as initiator and coinitiator or you called this as catalyst and this is the cocatalyst.	3.595395660348524
+Now , I can write generic reaction for this type of reaction.	2.6430800077455947
+Now , once you form this , again react with the monomer and form the initiating species , which let us write in next page.	3.074290797054041
+Similarly , you can write this similar reaction for this aluminum chloride and alkyl halide reaction.	3.0523692204051565
+This alkyl halide could be , say for example , R could be tertiary carbon or could be a triphenyl carbon group.	4.171553163378188
+So , this is example of alkyl halide , which is used for this cocatalyst or initiator in this reaction.	2.821869423221229
+So , I , I can write a generic equation or expression , say I , I for the initiator and YZ , this is for your coinitia , I for the coinitiator , this is for the initiator or this for catalyst and this is for the cocatalyst , giving rise to a cationic species and a counter ion.	3.648442993861198
+This is I and which then react with a monomer forming the chain initiating spices.	3.4548945828315256
+Now , we are writing ki for this reaction because it has been found out , that of these two reactions , this is the two reactions , consists of chain reaction , chain initiation reaction.	2.888263732272879
+This , this is the step , which is rate determining step.	2.713157717255903
+So , we will consider this reaction while calculating or while determining the , or looking at the kinetics of this chain polymerization.	2.869534693100274
+Remember , if you compare with the radical chain polymerization , this was the first reaction compared to the step , the first step , where radical was getting generated from the initiator molecule and we considered that as a rate determining step for radical chain polymerization.	2.6523179044114693
+But in this ionic chain polymerization we , this is the faster reaction step where this is the slower and rate determining step.	2.828642072688353
+So , for ionic reaction monomer also participate in the chain initiation reaction where in case of radical monomer was not actually part of the chain initiating expression Now , the reaction rate also depend , depends on this YZ , which is basically a cocatalyst.	2.934008947207384
+It will also influence the polymerization rate because the activity of the initiation complex depends how readily it can transfer a proton to the monomer and that in turn depends on the acidity of this cocatalyst.	3.071430256864258
+For example , if I consider ionic , cationic polymerization of isobutylene by tin chloride catalyst , then the reactivity of this reaction or the rate of reaction follows Rp , follows in the order like this , nitroethane , nitroethane , phenol , water , which is basically the ranking of the acidity of this cocatalyst.	3.453496517205972
+So , basically the type of cocatalyst also influence the polymerization because the acidity of this , this complex , the activity of this complex depends on how readily it can supply this cationic species , where I say proton or in this case it is a proton or a carbocation to the monomer , and for a proton or protogen or a proton supplier , it depends on the acidity of the cocatalyst.	3.17044458458337
+So , it follows this trend and for the carbon cationic generator like RCl , like AlCl 3 plus , this reaction.	3.5838985643243033
+Now , this reaction complex , the , the activity , the total polymerization rate dependence on this RCl is little complex and we will keep the discussion for this course.	2.8176159092232
+So , you should just remember that the , the structure of the cocatalyst also determines the rate of polymerization and also affect the rate of polymerization , and we will now see that.	2.6836247123840473
+Obviously , I , the catalyst or the coinitiator also affects the rate of polymerization.	2.671624277827589
+Now , now Lewis , Lewis acid , we are talking about this reaction are the initiation , is by Lewis acids.	3.2443283812769503
+So , Lewis acidity of these defined metals increases with atomic number.	4.074234861775555
+We know that Lewis acidity follow this order.	3.4926457017617634
+This Lewis acidity of this defined metals increases with the atomic numbers.	3.9115775473258765
+So , for a single metal , say , if we consider titanium , then again the Lewis acidity increases with the oxidation number.	3.5299398664112482
+So , TiCl 4 have more Lewis acidity compared to , Tl , TiCl 3 than this.	4.36380934354175
+So , for , if you compare with defined , different metal is basically atomic number.	3.2147971075540194
+It will determine the Lewis acidity and for same , same metal is the oxidation state increases , the Lewis acidity increases and also the Lewis acidity.	3.503845397617179
+For a single metal follow this trend of the ligand.	4.126013955010922
+If this ligand , they follow this , so obviously , if the ligands are fluorine or chloride , they have much more Lewis acidity compared to the ligands are , this is , this is from your basic knowledge from inorganic chemistry , basic knowledge and this is , from this expression , you know , this is strongest Lewis acid and this is , not always we use this though it is a very strong Lewis acid , for all the cationic reaction.	3.4983027210752953
+We will not use this as a catalyst or a coinitiator because rather than other complication if the reaction , it is too fast , then the side reactions also come in the picture , the side reaction also increases.	3.1437154739153708
+If the side reaction rate also increases , then again the problem of molecular build up come.	2.866947213270195
+So , though this trend is there , now while choosing the catalyst or the coinitiator , it is , it is not this general trend is always followed , you have to keep the other factors in mind as well.	3.7768614252944936
+So , we talked about the initiator reaction with by this reaction of the monomers with the electrophile.	2.444294515937519
+Now , there are other initiation reactions , other initiation reactions , for example , halogen , halogen can be reacting with more acidic Lewis acid and gives out cation , halogen cation.	3.492329625108507
+This can be initiation ; can be done by photo initiation of olium salts.	3.8721872525746557
+It can be done by electro initiation where cationic species is formed by electrolysis of any species present in the medium or it can be done by ionic , ionization radiation , like in the case of radical the initiation can be done by ionization.	3.309120790538733
+So , these are the other possible ways of initiating a cationic polymerization.	2.679578374083153
+But as I mentioned in earlier , these are the generic examples , which we get in this page.	3.4705519989361315
+These are the most common example of or the most important initiation reaction.	2.7739985997246657
+So , we will talk about kinetic.	2.2486298797051596
+So , energetic , we will consider this generic initiation step and also consider this initiation step , of , for the discussion because this is the most important of the initiation step we just discussed.	3.0408079671570136
+So , let us now discuss the propagation step.	2.583888199367763
+Propagation , we have already seen the different types of initiation possibility and as I said , we will consider the generic case , we , as I showed there.	3.0798039282779253
+So , this , this was the initiation reactions.	2.3333445473669463
+So , you have this initiator , coinitiator complex , which starts the chain initiation.	2.7900523718714303
+I write this in the next page , it can react with the name and start the chain propagation reaction and I can write a generic expression of this in this way plus M kp n plus 1 M plus IZ minus.	3.3051617164733327
+If Y is H , the photogens we can write H M n M plus IZ minus.	4.917694873919378
+For examples , that Ba 3 water case , I can write this is a proton donor.	3.9179781599548167
+So , I can write… This is the reaction of isobutylene catalysed by this reaction.	2.7481197857132216
+I just recall from your earlier decision , I am writing the propagating reactions here.	3.527624950582634
+This , on reacting on with isobutylene , will produce the.. ... So , these are the examples of the propagating steps and sometimes this propagation reaction could be complicated and because of this one two hydride shift , but that is not very common.	2.962679298002895
+I will just give you an example when this propagating steps could be little complicated and by hydride shift or shift and that is applicable for say , propene or one alkene , one alkenes , take example.	3.849732400545663
+Now , this can undergo a hydride shift and from this carbo cation.	3.0840476898770524
+So , as a result more complicated products actually form when there is type of hydride shift or some cases methide shift , some cases shift one two methide shift.	4.102955121567385
+If this happens , the reactions become very complicated and we call that sometimes isomerization polymerization as well.	2.8860232801092716
+But this is not common ; this is especially applicable to some monomers.	3.1437788446052233
+The example we gave , most common propagation steps are in this page , what we just discussed now and as you can realize , that the rate of propagation will depend on the solvents.	2.987625911170289
+We discussed in length the effect of solvent polarity and if the polarity of the solvents is high , then this ion - pair will be more towards a solvated or free ion - pairs , then in the reactivity of this cationic species will be higher.	3.0530483547821206
+So , the rate of polymerization will be higher.	1.9261763945417312
+Now , let us have , let us see some data related to convince that understanding.	4.2451051912317785
+Say , let us take example of styrene , polymerization of styrene by or chloric acid HClO 4 solvent is a mixture of CCl 4 and ethylene dichloride.	3.5432189850852676
+This is a dielectric , resulting dilating constant and this is your kp liter mole inverse second inverse.	4.586985084381667
+If you have pure CCl 4 , obviously , this is more non - polar , dielectric constant is 2.3 and the rate is low.	3.646300446165806
+When you increase the polarity by adding ethylene dichloride , dichloethane , EU , say in 40 - 60 mixture , your dielectric constant goes up , your reaction goes up.	4.502810975488554
+If you consider further , 20 , 80 , 7 and this is 3.2 , 3.2 , 0 , 100 , 9.72 and this is 7.	5.203344358309636
+So , if this is the data to convince you , that if you increase the polarity , which is given by dielectric constant , the rate constant or the rate of the polymerization reaction increases.	2.9099980076511436
+So , we just discussed the propagation steps , now let us talk about different possible termination steps in cationic chain polymerization and as one more time , that it cannot , termination does not happen by bimolecular reaction of the propagating species and generally , the termination happens by transfer reactions.	2.8081525861793484
+For example , one beta proton transfer to either monomer or counter ion or say polymer itself , solvent or some impurities , which is present or a transfer agent , like the case of chain radical polymerization , we talk about the chain transfer is possible.	3.0282624078239624
+And for example , if we consider the beta proton transfer to monomer , I can write k transfer monomer just like the radical polymerization.	2.80069736311283
+If we consider the same examples of isobutylene polymerization by BF 3 and H 2 O , this can transfer beta proton to the monomer and can form this and plus the 2 2 beta proton , one is here and one is this hydrogen.	3.364537062608996
+So , one , depending on which proton is leaving you can get actually two structures with double bond.	3.25187745642256
+The average perplexity is 3.1803385473993355

@@ -1,0 +1,201 @@
+Three major classes of continuous reactors are listed here.	3.384649349228227
+You have continuous stirred tank reactor and the classical feature of a continuous stirred tank reactor is it is a type of a stirred reactor in which you give a continuous supply of substrates in the form of feed and the same volume at the same rate the product stream is taken out while retaining the immobilized enzyme preparation in the reactor stream.	3.355587253648137
+The major characteristic feature of the continuous stirred tank reactor often denoted as CSTR is that the contents of the reactor are perfectly mixed or the system is totally homogeneous.	3.7802726817400685
+That means the concentration of any particular species in the reaction system is uniform through out the content of the reactor and this concentration is same as that in the outlet stream.	2.8897659409656313
+The concentration of any specie of a reaction system is homogeneous same at every point in the reactor and that is equal to the concentration at the product stream because it is a perfectly mixed system.	3.088092615311189
+These characteristics makes a very unique situation and whenever contents in the reactor are at the same composition as in the product stream it implies that the concentration of the substrates in the reactor is at a level which is present in the outlet stream.	3.514968498923451
+For example if you want to carry out a conversion of let us say a 95 % leaving back 5 % of the substrate that means the concentration of the substrate in the reactor will be only 5 % of that of the feed inlet.	3.2246436789697643
+So the effective concentration of the substrate at which the reaction is taking place is much smaller than the substrate inlet stream concentration and therefore such reactions will be ideally suited for the enzyme catalyzed reactions which are strongly substrate inhibited because the effective substrate concentration in the reactor will be much lesser than the actual substrate concentration in the feed stream.	2.9208940219027713
+So the inhibitory effect will be totally masked.	3.6491827673583175
+On the other hand if the reaction is inhibited by the product then such reactors are not very suitable because the content in the reactor will also have a very high product concentration at any given time.	2.934380920212938
+So therefore the reaction will always continue in a product inhibited design.	3.0087517380928688
+So the reaction rate can be very slow.	2.3690117175331906
+So therefore the reactors in the form of continuous stirred tank reactors are ideally suited for substrate inhibited reactions rather than product inhibited reactions.	3.3410243703736953
+So that is one feature.	2.8417181664170017
+The second category is plug flow reactors.	3.5110877347714347
+Plug flow reactors or in a much boarder sense you can say packed bed reactors are probably one of the most commonly used types of reactors in the immobilized enzyme applications mainly because of the nature of the catalyst.	3.211372929220977
+Because it is used in the form of either particles or films it can be easily packed in the system and can provide a very high catalyst density , enzyme density in the reactor system.	3.379950330373291
+Higher the catalyst density the over all reaction rate can also be very high because the enzyme concentration per unit volume will be much higher compared to a CSTR.	3.106538530852492
+But the basic characteristics of plug flow reactor is that the substrate inlet stream moves do they flat concentration profile or velocity profile along the length of a reactor.	3.6706328333171045
+Consider an enzyme reactor.	2.3443316069910995
+This is an enzyme reactor , a plug flow reactor and then consider the central axis , the velocity profile of the feed.	3.3263279815337774
+This is s ; this is the product stream.	3.357631052988954
+The concentration profile of the feed at any given cross section of the reactor is flat.	3.148891464608273
+That means there are no actual dispersions and so the velocity profile of the feed stream throughout the length of the reactor is flat or in other words the feed inlet , the feed stream moves almost like a plug and therefore the name what we talk about as a plug flow reactor.	3.8009695490790802
+They are packed bed systems and achieving a perfect plug flow condition may not be feasible in large scale reactors while in the case of small scale reactors by manipulating or by increasing the length to diameter ratio one can achieve a much better plug flow behavior.	4.179131812081139
+But in the case of large reactors there are lot of deviations from the plug flow behavior which we will consider.	2.9923976497133244
+They can be accounted in while we consider the reactor performance.	2.986093025398675
+The third category of the continuous reactors are fluidized bed reactors.	3.242353092550874
+They are somewhere between the continuous stirred tank reactors and the plug flow reactors and if you put the substrate feed at a speed high enough to lift the bed or fluidize the bed but not allow the catalyst particle to go out of the reactor , unlike in the case of a packed bed there is a static bed of the immobilized enzyme particles and the linear velocity of the feed is not large enough so that the bed can be disturbed.	3.5840389053447748
+The characteristics of the bed can be theoretically numerically accounted by voidage what we call as a factor called epsilon which is the wide volume in the bed divided by the total packed bed.	4.4174971117186566
+This will be a function of the particle shape and size.	2.7092353035657304
+Particle shape and size will control the voidage in the packed bed but when you move ahead from the plug flow behavior and continue to increase feed velocity stream to a level that the bed is packed , bed is disturbed.	4.521450028383068
+It gets fluidized ; the particles are fluidized in the reactor system almost like as shown here in the reactor but not to the extent that the catalyst particles are driven out of the reactor system.	3.1760551438745264
+They are retained in the reactor system.	2.744703423644003
+We call it fluidized bed ; fluidized bed immobilization reactor.	3.7935443213027527
+Such reactors in terms of fluid dynamics probably provide a performance somewhere in between the CSTR and PFR but are ideally suited for the reactions which have a requirement of good heat and mass transfer because in many of the situations like in packed bed the heat and mass transfer may be very difficult and particularly in case of reactions which are exothermic in nature there might be lot of local heat hot spots which can inactivate the enzyme.	3.630094458293806
+Fortunately in the case of enzyme catalyzed reactions , the reactions are not highly exothermic.	2.9702997090054284
+They are usually isothermal and therefore the problem of heat transfer is not so severe.	3.6844510754371425
+But even a smaller level of heat generated can be taken care very easily in case of fluidized bed reactors.	3.9763986706838974
+Alternatively if your substrate is highly viscous or let us say colloidal in nature , in those cases also a fluidized bed reactor can provide you a much better system for carrying out immobilized enzyme reactions in a continuous mode.	3.5523111635342652
+These are the three major classes of continuous reactors but in practice a number of hybrids of these reactor systems have been proposed by people both in the case of CSTR as well in the case of plug flow reactors.	3.50800057644928
+In fact fluidized bed reactor itself is a hybrid between the two major classes.	3.9644197203394893
+But even under CSTR a modification which has been proposed is in the form of CSTR coupled with the ultra filtration cell.	3.7018799429365408
+Particularly in case where you want to carry out reactions using insoluble substrates or soluble enzymes and want to use a continuous reactor.	3.0536601826580108
+For a soluble enzyme you cannot use a plug flow reactor.	2.661746192411454
+So CSTR coupled with an ultra filtration reactor can be easily used for carrying out a reaction with the soluble enzyme or with insoluble substrates.	3.4688334938364283
+In the case of soluble enzyme the use of plug flow reactor will drive away the enzyme simultaneously and you cannot use it continuously.	3.0724488322699157
+In the case of a CSTR , you can use a soluble enzyme or along with a soluble or insoluble substrate by carrying out in a CSTR and coupling the CSTR with the ultra filtration module.	3.198152830915674
+That is the reactor output instead of going directly to the product stream passes through ultra filtration unit in which the product stream is filtered out and can be taken out of the product stream while the retentate which contains mainly the enzyme is recycled back into the reactor.	3.8031266480045067
+So it is a form of recycle reactor just like we saw in the case of total recycle packed bed which operates the batch reactor or even in continuous reactor recycle reactors can be used where part of the output stream is recycled and part is taken out as the product.	3.6652745158229814
+In this case here we do the same thing ; a part of the output stream which is the filtrate from the ultra filtration unit is taken out to the product stream and the retentate of the ultra filtration unit is cycled back into the reactor and it can be operated in a continuous shift.	3.5734922524261505
+So overall performance wise in terms of the reactor performance it can be considered almost similar to that of a CSTR.	3.377954101292228
+There are two major modifications which has been proposed in the case of plug flow reactors.	2.985730916544785
+While the conventional systems as we have seen use the packed bed and feed the substrate in either at the top of the column or at the bottom of the column either of the combination is feasible but they may also have some operational problems.	3.55866115911636
+Of the two major modifications of that which have been proposed and have been used in the enzyme catalyzed reaction , one is a hollow fiber reactor.	3.081984775012721
+In the case of hollow fiber the system is something like in a shell and tube reactor ; shell and tube heat exchanger type of situation where you have very fine capillary type of fibers which are semi permeable in which the enzyme can be entrapped.	4.672811650652747
+The enzyme feed is put in , in the hollow fibers and the main feed substrate is passed through the cell side and because of the semi permeability of the hollow fiber membranes the substrate and the enzyme can come in contact.	3.4862534481302516
+That means the substrate can go into the vicinity of the enzyme and product can go out and ultimately the product stream can be taken out but the enzyme cannot go out of the ultra filtration tubes and such a reaction system has an advantage that you can use such a system as a continuous plug flow reactors even using the soluble enzymes.	3.4111602932576175
+While a packed bed system cannot be used in the soluble enzyme but a hollow fiber reactor can be used in soluble enzyme and particularly where contacting an enzyme and the substrate is a problem such reactors have been used and in terms of flow behavior , because of these hollow fibers being of the capillary size , very fine capillaries and a bundle is made so they almost provide a reactor performance in line with the plug flow barrier No.	3.812027238847291
+In the hollow fiber tubes , capillary tubes is the enzymes contained and in space provided between the tubes and the cell the substrate feed is fed into it.	4.308476537310444
+You are referring to this one.	3.0125711459700346
+This is only a cross section of the system.	3.0544147962374972
+In fact all the tubes at the top are joined in a section so that they come out in the same section.	4.1669079358828975
+This is only a cross section shown here in the expanded form.	3.7362617898749884
+The circles which you are seeing here they are blown up here in this form and they indicate one hollow fiber.	4.282155015050992
+The whole reactor consists of a bundle of hollow fibers almost about eighty or hundred hollow fibers can be constituted in about one square inch of that order hollow fiber.	5.723119649313351
+But there are systems reported in which they are on the tube walls.	4.032627890685866
+The enzyme can be immobilized but alternatively in the general fashion it can also be in the form of soluble enzyme.	3.0365053560439534
+When you say when you are immobilizing on the walls of the tube then they don ’t operate really on the hollow fiber reactor.	3.9951024251200615
+Then it is almost like a packed bed reactor in which the tube side is used as the matrix and it is almost like a packed bed reactor.	3.3699602016684183
+It doesn ’t matter whether you pack it in a horizontal fashion or a vertical fashion the tubes are used as the immobilized matrix whereas I am talking about that the enzyme which is used in the soluble mode.	3.92407583816714
+It is retained in the semi permeable hollow fiber tubes so that it is not able to go out almost similar to microencapsulation where the enzyme is contained in the forms of tubes.	4.2609915593730205
+The other noble modification of the plug flow system is a spiral membrane bound module.	4.329717370348872
+It is a very specific configuration which has been reported and has been used industrially and this system has been used extensively for immobilized enzyme preparations which are in the form of thin films.	3.1658102830033297
+The typical application which reversed is where the enzyme is immobilized on the collagen matrix in the form of thin films and you get a very long roll.	3.228404707753392
+It can even also be used along with , like your fiber entrapped enzymes , if the fibers are woven in the form of a cloth or thing like that so that you get a very large surface area in the form of a film , long film.	4.1714510410155095
+What is done is that this thin film of the enzyme containing enzyme is bound spirally on to central core.	3.8814962213520974
+You take a central core on which spirally the enzyme sheet is wrapped around the core and in between to provide strength there is a matrix or there is a kind of a porous sheet which can keep the two enzyme sheets separated.	3.9934792603230007
+It serves two purposes ; one is that it provides strength to the enzyme sheet.	3.928831972329161
+The other is it also doesn ’t allow the enzymes system to get clogged and that can be packed into a column into a tube and such a system also can provide a very high enzyme loading because the surface area available on the thin film is very , very large and therefore it can provide a very high enzyme loading and also the system performs almost like a plug flow reactor.	3.6540103147084215
+It operates almost like a packed bed system.	3.9713091500987066
+Only thing is instead of packing the column with the particulate material what you are doing is the film is being wrapped along a core spaced by another sheet and then the whole core is inserted into a column.	4.205787165671549
+So you can feed the substrate either from the top or the bottom and take out another stream.	3.7371024244396236
+It is almost like a plug flow reactor.	2.5472580696020586
+I must say that this is not the comprehensive list of the type of the reactors that has been reported.	3.528901460059402
+Very large variations of reactor designs have been reported.	3.6161559353440027
+Even for example in the case of a CSTR people have immobilized the enzyme on to the base of the …… and carryout the reaction.	2.94389642936745
+So a variety of configurations had been used but some of them are purely of catalytic interest also.	4.155655877436068
+But by and large from the fluid dynamics and reactor performance point of view they have to be classified on one of those standard operational modes.	3.6182418726435754
+To sum up the type of reactors that are available the combined continuous stirred flow reactors with the ultra filtration system is useful with the soluble enzyme or along with the immobilized enzyme particularly by an insoluble substrates are required to be handled or colloidal substrates are required to be handled.	3.496578946227938
+Because in the handling of colloidal substrates , you often find difficulty with the flux flow reactors.	4.251929776746239
+So the combined CSTR coupled with the ultra filtration reactor can be easily used.	3.7652443850993436
+Such reactors had been very poor in terms of long term operations mainly because of the adsorption of the enzyme on to the membrane surface.	3.3519410179895353
+So most of the membranes provide a good adsorption surface and the enzymes get adsorbed on to that and the reactor performance is ….	3.2799531087025993
+during continuous use.	2.6461273794283557
+All the defects or all the limitations of an ultra filtration system will also be associated here.	3.841960302714594
+The reaction system will have to face all the problems like concentration polarization of an ultra filtration system and unless those are taken care the reaction performance will be adversely affected.	3.594560412551425
+One is that the system undergoes a very fast rate of deactivation mainly because you have to transfer the whole material along with the substrate into the ultrafiltration module and recycle back the retentate and so during that transfer there is a significant loss occurring.	3.8279685641103254
+In most of these one of the reasons of activation is also ….	3.2567462087142673
+inactivation and in case of even CSTR many of the enzymes or the carrier particles that are ….	3.440298330720856
+sensitive or carriers which can go undergo lot of attrition during use the CSTR becomes a sort of a disadvantageous system because if the carrier particles get disintegrated during use it will involve the loss of enzyme.	4.031270512705999
+In the case of CSTR , the most favorable point is that for reactions which are substrate inhibited , CSTR is a desirable feature.	2.8521536781767893
+The other desirable feature of the CSTR is that it can be used wherever pH control is required because it provides you an open configuration in which the pH monitoring and control both can be exercised which is very difficult in the case of a plug flow reactor.	3.6146442517513964
+In the case of a plug flow reactor you have a recycle system so that have an external loop in which the pH monitoring and control is exercised or otherwise in the ideal plug flow behavior the pH control is difficult.	3.868367893089815
+But the CSTR provides an ideal tool and in many cases of immobilized enzyme reactions pH control is a requisite.	3.7090173095393695
+Then in the case of CSTR even colloidal or insoluble substrates can be processed which is not feasible in the case of plug flow behavior and then easy replacement of catalyst.	3.465534156658185
+While in the case of PFR or the plug flow reactor the regeneration of the carrier is simple because after the immobilized enzyme is exhausted one can stop for a while regenerate the carrier , reimmobilize the system and reuse.	3.395067705812724
+If suppose the carrier cannot be regenerated and it has to be replaced the replacement of carrier is much simpler in the case of CSTR.	3.226047600754253
+We have talked about higher yields for reaction undergoing substrate inhibition.	2.8638895207833706
+Then in the case of plug flow reactors often it has been noted that the conversion efficiencies are much higher compared to CSTR and the major reason for that are two.	3.2046146652656415
+We will see the quantitative analysis of the reactor performance in both the cases.	3.0074822936390984
+But one of the major reason is that most of the enzyme reactions are inhibited if not very excessively but mildly by product concentration.	3.159388437017799
+So the plug flow maximizes or minimizes the product concentration at any given point.	3.4299198841786227
+The maximum product concentration is only at the outlet stream but across the reactor length the product concentration is much lesser than the outlet stream as the opposite happens in the case of a CSTR.	3.5004360473220597
+So the reactor performance is much better usually in the case of PFR.	2.95701961039109
+The second reason is that the enzyme loading per unit volume is much higher in the PFR compared to the CSTR.	3.464685257807909
+In the CSTR , the concentration of the enzyme which you can …. .. usually is not very high when compared to the PFR.	3.112125693352355
+The other category of enzyme reactor , fluidized bed reactor , as I mentioned earlier are much better suited for heat and mass transfer characteristics and freedom from plugging.	4.24684866510481
+Very often if colloidal substrates are to be used a plug flow reactors faces problem in terms of plugging or choking of the column.	3.9314565651807376
+Insoluble substrates can be used.	2.8237282724407042
+Pressure drop will end the problem in the plug flow reactor because if you want to eliminate some of the problems associated with the internally bound diffusion in the system , the particle size has to be reduced and the reduction of particle size will mean increase in pressure drop across the bed and increase in pressure drop across the bed ultimately puts an economic barrier in terms of higher energy consumption for feeding the substrates and therefore in the case of very fine particles you can handle the system in a fluidized bed reactor without much pressure drop problems.	0
+One of the disadvantage is the power requirement for fluidizing the beds because you need to feed the substrate at the very high linear velocities which requires a much higher power consumption and the scale up of the fluidized bed reactors has also been very largely empirical.	3.583164827343535
+The scale up systems is more empirical compared to CSTR and PFR which are considered to be idealized reactor systems because in terms of fluid flow behavior they represent the two extremes.	3.9564154438211907
+In one there is no actual dispersion ; in the other case there is complete back mixing.	3.570170522176518
+So therefore their modeling or their arriving of electrode performance is much certain , much more defined and therefore the scale up can be easily carried out whereas in the case of fluidized bed reactor a scale up is more empirical.	4.240898875709518
+There will not be much pressure drop because just like in the case of a packed bed reactor the particles are all compact.	3.41589369780935
+So when you feed a substrate the pressure drop will be very large if the particle size is very fine.	3.3440455108388236
+In the case of a fluidized bed reactor the voidage is very high.	3.0101897299699787
+The voidage is almost approximating to that of CSTR ; not the same but it is approaching to that and therefore there is no pressure drop and the system has a very large voidage ; the voidage increases.	3.7682121087213587
+Before we go into the reactor performance of different types of reactor for the immobilized enzyme systems , we cannot normally consider all the parameters like non - ideal fluid dynamics , the mass transfer constraints and along with the biochemical reaction we cannot really combine at one stage.	3.2233418796203224
+We can take up those issues one by one and to begin with we can only consider an idealized enzyme reactor system.	3.854131679329982
+We would like to make certain assumptions before we go into the reactor performance and the assumptions are that first thing we are assuming that the reactor undergoes an isothermal operation.	3.36023079881176
+That means.	1.5243356139796316
+H value of the reaction is not very high so that there is no temperature gradient in the reaction ; the first assumption.	2.515327911397732
+Second is uniform enzyme distribution.	3.1903304579643015
+In practice there are reports that even in an immobilized enzyme preparation itself there are no uniform enzyme distribution practically.	3.3767497105020454
+But for theoretical purposes , we assume that the enzyme is distributed uniformly in the reactor whether it is a plug flow reactor or is a batch reactor or a CSTR.	3.471386215347567
+The third condition is we are assuming either a plug flow behavior for packed bed or a completely back mix behavior for CSTR in terms of fluid dynamics.	3.9725848291939285
+We are not considering anywhere that means even fluidized bed is not considered as an idealized reactor system.	3.655996073563541
+So we are considering the two extreme conditions either a plug flow behavior or a completely back mix system.	3.889240291816501
+Then we are also ignoring external film or internal pore diffusion limitations if any.	4.198787200081617
+We are considering that there are no diffusional limitations.	2.8352697258279598
+That means the rate of reaction is much slower than the rate of diffusion.	2.502657062583268
+The rate of diffusion is fast enough.	2.8769573445351964
+Then the last assumption is that there is no significant partitioning of substrate between bulk and the carrier phase.	3.0431781083645433
+If the system follows such we can evaluate or conduct a reactor performance on the basis of biochemical reaction , their reaction kinetics and to do so the major reactor design parameters which have to be considered are listed here.	3.342835409896484
+The first one is “tau ” which is the reactor space time in terms of V / Q.	4.375906637357065
+Here V is the reactor volume and Q is the flow rate in the case of a continuous reactor.	3.0562266282508976
+“tau ” in the case of the batch reactor is the batch reaction time.	2.6544549804694912
+Then you have initial substrate concentration ; another parameter which we have to define in any problem of a immobilized enzyme or soluble enzyme reactor we first define the S0 , the batch time or the reactor space time in continuous reactors.	3.055937508020128
+Then the total enzyme concentration in the system.	2.4575761770899245
+When I say E0 , I think it will be desirable to also have the magnitude of kd , the deactivation constant.	3.550228505084539
+Particularly it will be more important when we are talking of continuous operation where the reactor operation time is large enough the deactivation constant will also play a key role.	3.2281901742932524
+Then the temperature of operation because deactivation also will depend on the operational temperature.	2.701017777147282
+I would like to mention here that most continuous enzyme reactors are usually operated little below their optimum temperatures just to increase or reduce the kd values and increase the operational half life.	3.5974774148244473
+Then pH ; pH here is not only monitoring but more important is the control of pH.	4.530946842964642
+How are you exercising control of pH.	4.3367096891211885
+Then fraction of conversion in the reactor which can be defined as ( S0 - S ) / S0.	3.1878443835282466
+That means the concentration difference ; substrate concentration between the inlet and the outlet stream , the ratio of the two.	2.96848413435131
+Then the reactor productivity is another parameter which is important.	2.710595178708836
+X.S0 / tau.	9.44309729172427
+X.S0 is the total product formed and tau is the space time per unit time , the amount of product formed per unit time.	4.033494976125752
+If we consider S0 as the concentration term so that it becomes per unit volume also.	3.7235973681771424
+Then the reactor capacity ; although under given set of conditions you may get certain kind of productivity for a reactor capacity will be given by the Vm.	3.8327196181961534
+k2.E0.V.e *.	119.48920482245931
+Here even in case of tau also we can multiply by voidage if you want to consider a broader picture of a packed bed reactor because this V , reactor volume is not the packed bed volume it is the volume of the fluid in the reactor.	3.7127789780188336
+So the total bed multiplied by the voidage will give a fluid volume in the reactor.	3.56204622943604
+In the case of CSTR voidage can be considered almost equal to one whether the volume occupied by the carrier is very , very small compared to the total reactor volume.	3.4898240783283687
+Then reaction capacity can be given by k2.E0 which is Vm multiplied by the reactor volume and the voidage and then finally the important parameter is enzyme kinetics itself because the reactor performance will depend upon the reaction kinetics which controls the reaction.	3.1205399038048465
+Mind that we are not considering under idealized reactor conditions.	2.993076511197614
+Anything like diffusional limitations , partitioning effects and non - ideal fluid flow behaviour which we will consider subsequently one by one to arrive at the final reactor performance.	3.5833734427157666
+Pr is reactor productivity and Cr is the reactor capacity.	4.439238341196049
+Welcome back to this course on polymer chemistry and in this lecture number 22 , we are going to continue our first half our discussion on chain copolymerization.	3.1671562301663214
+We will cover the remaining parts of the chain copolymerization discussion we are having.	2.637920028642586
+And then take from there I will start a new topic or new synthetic procedure namely ring opening polymerization.	4.018434219523882
+Now , if you look at the slides we had during last 2 lectures the in our discussion on chain copolymerization , we basically covered these topics different types of copolymers , importance of copolymerization , and copolymer composition.	3.033926202721967
+Then microstructures , alternate random blocky structure , how the reactivity difference between the monomers actually give this type of copolymer microstructure.	3.1742186920789828
+And we have talked about copolymerization composition drift with time and then we talked about how the monomer reactivity ’s and different types of chain initiation , you know types of chain initiation , actually determine these values of the reactivity ratios.	2.946301330043453
+In today ' s lecture we will just cover this treat of care we will talk about Q e scheme and then briefly about ionic copolymerization how that is different from radical copolymerization.	3.6375326603116656
+And just a brief idea about the type of application this copolymers goes.	3.098736475495182
+Now , in the last lecture we talked about different factors contributing to the reactivities of this the monomers and in turn the reactivity ratio the value of the reactivity ratio of these monomers.	2.8742641390245987
+We talked about the resonance stabilization of the substituted group , we talked about the electron charge density , electronic charge density , we talked about the steric effect and so on.	3.2456483544543597
+Now , all these factors actually contribute to the reactivity of the monomer in such a way that it is very difficult to distinguish , the contribution from each of these factors in the reactivity of the monomers.	2.901654189486336
+Hence it is very difficult to get a quantitative idea or is very difficult to predict the reactivity ratios of the monomers from a given structure.	3.409155996340456
+Nonetheless one semi empirical method proposed by Price and Alphre is often used very commonly to sort of get the reactivity ratios of different monomers , and a ranking between different monomers in terms of their reactivities.	5.093513696039756
+And that is a semi empirical approach and this is the Q e ' s Q e scheme we are talking about.	5.362089002225336
+And this is we talking a continue our discussion on radical copolymerization so it is applicable for radical copolymerization.	2.582351610919632
+And this scheme is based on the assumption that the rate constant , rate constant of reaction between a propagating radical P this is a propagating radical P with a monomer , monomer m.	3.17801940862258
+Now this rate constant can write k P m this is rate constant for reaction between a propagating polymer radical P and a monomer m is given by these expression , where this 2 terms are the reactivity measure of the reactivity of the polymer like radical.	2.925843056448846
+And this is the measure of reactivity of the monomer and this two term e p and e m they are the measure of the electronic charges , electrostatic charges on the polymer radical and the monomer respectively.	3.4324210315870047
+So , if I write from this the expression for r 1 which is given by k 1e 1 by k 1 2 I should write.	4.758175990708959
+Now , this both cases the polymer radical is the same so this will get cancelled.	3.0221174134262885
+So , I can write q for m 1 q for m 2 for 1 , 1 , 1 e m 2 , you can get the expression from k 1 1 for k 1 1 k 2 and so the ratio you get these two , this because is the same radical 1 and 1.	5.487855438006374
+So , this cancel out so we get these were this is a the measure of reactivity of monomer 1 and this is the measure of reactivity of monomer 2.	3.353752338033853
+This is the charges electrostatic charges on the polymer radical and the monomer.	2.995020979302314
+Now , another assumption is made in this approach is that e p 1 is same as e m 1 and we can and we write this as e 1.	4.539586955365882
+Assumption is that the electrostatic charge on the polymer radical , which has at the end in monomer 1 structure and the electrostatic charge on monomer is same.	3.116827262898419
+And which will I think as e 1 so similarly , we can write e p 2 e m 2 as e 2.	7.335521279043962
+So , again the assumption is that the electrostatic charge on the polymer radical and the monomer are same , if the monomer residual end of the polymer radical is same as the monomer we are talking about.	2.8286840234179245
+So , if I can write , similarly for r 2 Q now because Q is always talking about related to monomer.	4.565409912914181
+The average perplexity is 4.089275470445463
